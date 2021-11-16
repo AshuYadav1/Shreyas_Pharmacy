@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shreyas Pharmacy</string>
+    <string name="product_details"> Medicine Details </string>
+    <string name="availability"> stock </string>
+</resources>
